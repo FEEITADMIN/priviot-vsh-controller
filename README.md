@@ -1,8 +1,8 @@
 # Virtual Smart Home Controller
 
-This app is a helper application written to support [https://feeitadmin.github.io/priviot-vsh/](https://feeitadmin.github.io/priviot-vsh/)
+This app is a helper application written to support [https://github.com/gcoulby/VirtualSmartHome](https://github.com/gcoulby/VirtualSmartHome)
 
-To use this application head to https://feeitadmin.github.io/priviot-vsh/ and click connect.
+To use this application head to https://gcoulby.github.io/VirtualSmartHome/ and click connect.
 
 Then, navigate to [https://feeitadmin.github.io/priviot-vsh-controller/](https://feeitadmin.github.io/priviot-vsh-controller/) and click connect on there also. You should now be able to turn the lights on and off within the VirtualSmartHome.
 
